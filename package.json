@@ -1,0 +1,24 @@
+{
+  "name": "kpparsfo",
+  "version": "1.0.0",
+  "description": "KinoPoisk Parser for OrderDesk DLE 10.6",
+  "main": "kp.js",
+  "dependencies": {
+    "dateformat": "^1.0.12",
+    "fs": "0.0.2",
+    "googleapis": "^2.1.7",
+    "htmlspecialchars": "^1.0.5",
+    "kinopoisk-ru": "^1.0.0",
+    "mysql": "^2.10.2",
+    "request": "^2.69.0",
+    "youtube-api": "^1.4.0",
+    "youtube-dl": "^1.10.5",
+    "youtube-video-api": "^0.2.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iBrm1269",
+  "license": "ISC"
+}
