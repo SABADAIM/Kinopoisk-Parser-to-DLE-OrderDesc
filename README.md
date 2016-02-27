@@ -1,5 +1,5 @@
 # Kinopoisk-Parser-to-DLE-OrderDesc
-Kinopoisk Parser to DLE OrderDesc Database
+Kinopoisk Parser to DLE OrderDesc Database(NodeJS)
 
 # Using:
 1. Go to the directory in which the extracted script
